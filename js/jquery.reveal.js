@@ -1,10 +1,3 @@
-/*
- * jQuery Reveal Plugin 1.0
- * www.ZURB.com
- * Copyright 2010, ZURB
- * Free to use under the MIT license.
- * http://www.opensource.org/licenses/mit-license.php
-*/
 
 
 (function($) {
@@ -32,7 +25,7 @@
         
         var defaults = {  
 	    	animation: 'fadeAndPop', //fade, fadeAndPop, none
-		    animationspeed: 300, //how fast animtions are
+		    animationspeed: 200, //how fast animtions are
 		    closeonbackgroundclick: true, //if you click background will modal close?
 		    dismissmodalclass: 'close-reveal-modal' //the class of a button or element that will close an open modal
     	}; 
