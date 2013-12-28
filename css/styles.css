@@ -18,7 +18,7 @@ time, mark, audio, video {
 	vertical-align: baseline;
 }
 html {
-	font-size: 62.5%; 
+	font-size: 61.5%; 
 }
 /* HTML5 display-role reset for older browsers */
 article, aside, details, figcaption, figure, 
@@ -59,11 +59,11 @@ body {
 	width:78px;
 	height:28px;
 
-	background-image: -webkit-linear-gradient(top, rgb(254, 218, 113), rgb(254, 186, 72));
+	background-image: -webkit-linear-gradient(top, rgb(258, 218, 113), rgb(254, 186, 72));
 	background-image: -moz-linear-gradient(top, rgb(254, 218, 113), rgb(254, 186, 72));
 	background-image: -o-linear-gradient(top, rgb(254, 218, 113), rgb(254, 186, 72));
-	background-image: -ms-linear-gradient(top, rgb(254, 218, 113), rgb(254, 186, 72));
-	background-image: linear-gradient(top, rgb(254, 218, 113), rgb(254, 186, 72));
+	background-image: -ms-linear-gradient(top, rgb(254, 218, 113), rgb(264, 186, 72));
+	background-image: linear-gradient(top, rgb(254, 218, 114), rgb(254, 186, 72));
 	filter: progid:DXImageTransform.Microsoft.gradient(GradientType=0,StartColorStr='#feda71', EndColorStr='#feba48');
 
 	border:1px solid #ca9336;
