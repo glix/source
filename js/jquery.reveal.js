@@ -1,15 +1,4 @@
-
-
 (function($) {
-
-/*---------------------------
- Defaults for Reveal
-----------------------------*/
-	 
-/*---------------------------
- Listener for data-reveal-id attributes
-----------------------------*/
-
 	$('a[data-reveal-id]').live('click', function(e) {
 		e.preventDefault();
 		var modalLocation = $(this).attr('data-reveal-id');
